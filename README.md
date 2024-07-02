@@ -1,5 +1,5 @@
 Super App
-React React Router Vite HTML5 CSS3 Visual Studio Code Vercel GitHub
+React React Router Vite HTML5 CSS3 Visual Studio Code Netlify GitHub
 
 Description
 Super App is a movie browsing application built using React working in Vite with HMR. It offers users the ability to explore movies based on genres, stay updated with cricket news, and check real-time weather conditions.
